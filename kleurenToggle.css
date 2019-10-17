@@ -1,0 +1,28 @@
+body {
+    background-color: darkgrey;
+}
+
+
+.menuButton {
+    background-color: darksalmon;
+    background-image: url ("menu.png.jpg"); 
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+
+
+.dropDown ul {
+   display:none;
+
+}
+
+.dropDown li {
+    list-style: none;
+}
+
+.dropDown li a{
+    text-decoration: none;  
+}
